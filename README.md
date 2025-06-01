@@ -1,4 +1,4 @@
-# Bash Scripting Assignment
+# Altschool Bash Scripting Assignment
 
 This repository contains two basic Bash scripts:
 
